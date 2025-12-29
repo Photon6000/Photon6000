@@ -10,8 +10,8 @@
       </h3>
     </td>
 
-    <!-- RIGHT SIDE: GIF -->
-    <td align="right" valign="middle">
+
+  <td align="right" valign="middle">
       <div style="width:167px; height:100px; overflow:hidden;">
         <img
           src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
