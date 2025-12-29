@@ -1,11 +1,10 @@
-
-<p>
+<p align="center">
   <img src="https://media1.tenor.com/m/-VAPFltun1IAAAAd/solo-leveling-banner.gif"
        width="833"
-       height="335"
-       align="middle">
+       height="335">
 </p>
-<p>
-  <strong style="font-size:24px;">Just a Guy Who is <span style="color:red;">CRAZY</span></strong><br>
-  Photon6000 aka <strong>Nayantheerth_Akhil</strong> 
-</p>
+
+<h1 align="center" style="font-size:48px; font-weight:bold;">
+  Just a Guy Who is <span style="color:red;">CRAZY</span><br>
+  Photon6000 aka <strong>Nayantheerth_Akhil</strong>
+</h1>
