@@ -2,8 +2,7 @@
   <tr>
     <!-- LEFT: Text -->
     <td align="left" valign="middle">
-      <h1>Just a Guy Who is <span style="color:red;">CRAZY</span> 🤯</h1>
-      <h3>Photon6000 aka <strong>Nayantheerth_Akhil</strong> ⚡</h3>
+      <h1>Just a Guy Who is <span style="color:red;">CRAZY</span></h1>
     </td>
 
   <td align="right" valign="middle">
