@@ -1,6 +1,9 @@
 <p align="center">
-  <img width="833" height="689.1485943775101" 
-       src="https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif">
+  <div style="width:500px; height:300px; overflow:hidden;">
+    <img
+      src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
+      style="margin-top:-30px; margin-left:-10px; width:520px;">
+  </div>
 </p>
 
 <h1 align="center">
