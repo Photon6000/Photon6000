@@ -15,7 +15,7 @@
       <div style="width:187px; height:120px; overflow:hidden;">
         <img
           src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
-          style="margin-top:-10px; margin-left:-3px; width:173px;">
+          style="margin-top:-10px; margin-left:-3px; width:187px;">
       </div>
     </td>
   </tr>
