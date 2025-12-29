@@ -1,5 +1,5 @@
 <p align="center">
-  <div style="width:250px; height:150px; overflow:hidden;">
+  <div style="width:10px; height:150px; overflow:hidden;">
     <img
       src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
       style="margin-top:-30px; margin-left:-10px; width:520px;">
