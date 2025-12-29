@@ -1,6 +1,6 @@
 <p align="center">
   <img width="700" height="393" 
-       src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFmMmlhNWV3OWRlamZrdDJycDRwNWlkMnEzOWcwYWt6MWQ3ODByaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0cIWlTtF4iGlXOR94/giphy.gif">
+       src="https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif">
 </p>
 
 <h1 align="center">
