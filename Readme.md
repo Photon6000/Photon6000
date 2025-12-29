@@ -10,8 +10,8 @@
   <td align="right" valign="middle">
       <img
         src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
-        width="187"
-        height="120"
+        width="213"
+        height="413"
       />
     </td>
   </tr>
