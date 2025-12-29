@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="393" 
+  <img width="700" height="420" 
        src="https://media1.tenor.com/m/zY3xlzCraPwAAAAC/solo-leveling-sung-jin-woo.gif">
 </p>
 
