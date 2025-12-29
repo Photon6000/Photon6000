@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <!-- LEFT: Text -->
-    <td align="left" valign="middle">
+    <td align="left" valign="top">
       <h1>Just a Guy Who is <span style="color:red;">CRAZY</span></h1>
     </td>
 
