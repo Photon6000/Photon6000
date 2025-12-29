@@ -6,7 +6,6 @@
       <h3>Photon6000 aka <strong>Nayantheerth_Akhil</strong> ⚡</h3>
     </td>
 
-    <!-- RIGHT: GIF -->
   <td align="right" valign="middle">
       <img
         src="https://media1.tenor.com/m/oO3-euFplQwAAAAC/sung-jin-woo-karma.gif"
