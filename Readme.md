@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/cD2XyI5yqkIAAAAd/solo-leveling-beru.gif"
-       width="833"
-       height="335">
+  <img src="https://media1.tenor.com/m/S2bJ3yzVlWEAAAAd/solo-leveling-sun-jin-woo.gif">
 </p>
 
 <h1 align="center" style="font-size:48px; font-weight:bold;">
