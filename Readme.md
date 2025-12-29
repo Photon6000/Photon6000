@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/-VAPFltun1IAAAAd/solo-leveling-banner.gif"
+  <img src="https://media1.tenor.com/m/cD2XyI5yqkIAAAAd/solo-leveling-beru.gif"
        width="833"
        height="335">
 </p>
